@@ -1,4 +1,8 @@
-# Tools
+# Online Tools
+## General
+* CyberChef: https://gchq.github.io/CyberChef/
+
+# Local Tools
 ## Live Extraction
 * Rclone: https://rclone.org/downloads/
 
