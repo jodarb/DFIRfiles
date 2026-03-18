@@ -6,8 +6,10 @@ Files for DFIR
 ## Live Extraction
 * Rclone: https://rclone.org/downloads/
 
-# Cheatsheet
-* Linux log analysis commands: 
+# Utils & cheatsheets
+## Log analysis 
+* Cheatsheet linux log analysis commands:
+* Online regex tester: https://regexr.com/ 
 
 # CTFs
 ## Log analysis 
