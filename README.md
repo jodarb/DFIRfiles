@@ -1,3 +1,4 @@
+![Header](img/DFIRFilesHeader.png)
 # Index
 ## DFIR
 * Herramientas para DFIR: [DFIRTools](https://github.com/jodarb/DFIRfiles/blob/main/DFIRTools.md)
