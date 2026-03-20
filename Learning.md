@@ -24,7 +24,7 @@ Las formaciones y certificaciones de SANS son las más reconocidas y de un nivel
   * [eCIR](https://ine.com/security/certifications/ecir-certification)
   * [eCDFP](https://ine.com/security/certifications/ecdfp-certification)
  
-## Learning platforms
+## Plataformas de aprendizaje
 * [LetsDefend](https://letsdefend.io/)
 * [Tryhackme](https://tryhackme.com/)
 * [HackTheBox - Sherlocks](https://www.hackthebox.com/)
