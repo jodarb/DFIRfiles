@@ -2,8 +2,8 @@
 ## Triaje
 * Triaje 01: Basic KAPE and analysis CTF
   * [CTF Checker](https://pub-d38a173e4f434750bf433e36bf7e9eef.r2.dev/CTFs/Triaje01/CTFChecker-LaGranja.html)
-  * [Custom KAPE](https://pub-d38a173e4f434750bf433e36bf7e9eef.r2.dev/DFIRTools/kape202603.zip)
-  * [exiftool](https://pub-d38a173e4f434750bf433e36bf7e9eef.r2.dev/DFIRTools/exiftool-13.52_64.zip)
+  * Download [Custom KAPE](https://pub-d38a173e4f434750bf433e36bf7e9eef.r2.dev/DFIRTools/kape202603.zip)
+  * Download [exiftool](https://pub-d38a173e4f434750bf433e36bf7e9eef.r2.dev/DFIRTools/exiftool-13.52_64.zip)
   * file 01 - [Triaje01](https://pub-d38a173e4f434750bf433e36bf7e9eef.r2.dev/CTFs/Triaje01/Triage01.zip) - source: CyberDefenders
 
 ## Log analysis 
