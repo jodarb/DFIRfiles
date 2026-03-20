@@ -1,4 +1,3 @@
-![Header](img/DFIRFilesHeader.png)
 <img src="img/DFIRFilesHeader.png" alt="Header" width="800">
 # Index
 ## DFIR
