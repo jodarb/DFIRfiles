@@ -1,5 +1,5 @@
 ![Header](img/DFIRFilesHeader.png)
-<img src="img/DFIRFilesHeader.png" alt="Header" width="500">
+<img src="img/DFIRFilesHeader.png" alt="Header" width="1000">
 # Index
 ## DFIR
 * Herramientas para DFIR: [DFIRTools](https://github.com/jodarb/DFIRfiles/blob/main/DFIRTools.md)
